@@ -1,2 +1,2 @@
 # ctf-writeups
-My CTF writeups - documenting every challengeI 
+My CTF writeups - documenting every challenge I solved 
